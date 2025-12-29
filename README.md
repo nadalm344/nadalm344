@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Mi Propósito
+## 🎯 Mi Propósito 🎯
 
 Soy una apasionada de la tecnología con formación en **Comunicación para el Desarrollo** y **Maestría en Negocios**. Mi misión es **eliminar las barreras del lenguaje técnico** para que el software sea accesible, usable y rentable.
 

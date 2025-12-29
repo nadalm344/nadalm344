@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy María Nadal
+# 👋 ¡Hola! Soy María Nadal.
 
 <div align="center">
 
